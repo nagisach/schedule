@@ -1,0 +1,6 @@
+/* ES6 module in Node.js environment */
+import '@toast-ui/calendar/dist/toastui-calendar.min.css'; // Stylesheet for calendar
+/* CommonJS in Node.js environment */
+require('@toast-ui/calendar/dist/toastui-calendar.min.css');
+<!-- CDN -->
+<link rel="stylesheet" href="https://uicdn.toast.com/calendar/latest/toastui-calendar.min.css" />
